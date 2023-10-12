@@ -1,0 +1,47 @@
+html, body {
+    background-color: lightgray;
+    width: 50%;
+    margin: 0 auto;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.container {
+    width: 360px;
+}
+
+#syöttökenttä {
+    background-color: beige;
+    width: 300px;
+    height: 46px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#lisääTehtävä {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+    background-color: yellow; 
+}
+
+.tehtävät {
+    margin-top: 25px;
+}
+
+.paragraph-styling {
+    margin: 5px 0;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: Helvetica;
+}
